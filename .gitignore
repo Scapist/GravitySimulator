@@ -1,0 +1,9 @@
+/*
+
+!.gitignore
+!README.md
+
+!TP*/
+TP*/*
+!TP*/src/
+TP*/src/*.java
